@@ -1,8 +1,3 @@
-# Credit-Card-Anomaly-Detection
-Here's a more personal, story-driven README for your project:  
-
----
-
 # Credit Card Anomaly Detection 🚀  
 
 ## Why I Built This 🏗️  
@@ -46,6 +41,4 @@ I’d love to hear feedback and collaborate with others interested in fraud dete
 ## License 📜  
 This project is licensed under the MIT License.  
 
----
 
-Let me know if you’d like to add anything else! 🚀
